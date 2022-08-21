@@ -1,0 +1,13 @@
+1. Download and Install Node js (v)
+2. Enter Directory of package.json and run
+> npm install
+If Errors (Update npm)
+> npm install npm@latest
+> npm install --force
+- remove dependencies or some third packages
+- try npm install again
+IF ERROR
+> npm install react-scripts --save
+> npm fund audit fix
+> npm audit fix --force
+
