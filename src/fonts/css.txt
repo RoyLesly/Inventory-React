@@ -1,0 +1,10 @@
+font-family: 'Acme', sans-serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mingzat', sans-serif;
+font-family: 'Monoton', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Shadows Into Light Two', cursive;
